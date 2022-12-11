@@ -28,3 +28,7 @@
 
 ### Next Steps
  * Describe what the immediate next steps for the proposed work should be
+
+Here's an example of thesis design:
+
+![Thesis Design](thesis design.png)

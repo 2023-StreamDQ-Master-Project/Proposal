@@ -29,5 +29,6 @@
 ### Next Steps
  * Describe what the immediate next steps for the proposed work should be
 
+### Alternative Template
 Here's an example of thesis design:
 ![Thesis Design](https://github.com/2023-StreamDQ-Master-Project/Proposal/blob/main/thesis%20design.png)

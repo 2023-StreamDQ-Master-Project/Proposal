@@ -30,5 +30,4 @@
  * Describe what the immediate next steps for the proposed work should be
 
 Here's an example of thesis design:
-
-![Thesis Design](thesis design.png)
+![Thesis Design](https://github.com/2023-StreamDQ-Master-Project/Proposal/blob/main/thesis%20design.png)
